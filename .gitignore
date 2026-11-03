@@ -42,4 +42,3 @@ next-env.d.ts
 
 # local AI tooling config (not part of the app)
 .claude/
-config.bat
